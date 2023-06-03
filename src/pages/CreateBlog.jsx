@@ -16,7 +16,7 @@ function CreateBlog() {
     let d = new Date();
     let year = d.getFullYear();
     let month = d.getMonth();
-    let day = d.getDay();
+    let day = d.getDate();
     console.log(day, month, year);
     let date = day + " " + month + " " + year;
     let data = {
