@@ -1,0 +1,30 @@
+HOME
+local storage 
+fetch all blogs
+
+AUTH
+login api
+register api
+
+WRITE
+create post
+
+UPDATE
+update post
+delete post
+
+READ
+fetch one post
+like post
+
+PERSONAL
+fetch all titles
+fetch all blog
+get details
+update user
+
+ADMIN
+all titles
+delete post
+update post
+get by user
